@@ -11,3 +11,8 @@
 - **Integrated** LLaMA (Llama2) with the CTransformers library to provide high-quality conversational AI responses.
 - **Created** a user-friendly web application with Flask, allowing users to interact with the chatbot and receive instant responses in a seamless manner.
 
+- # Web App
+![chatbot1](https://github.com/Bharathkumar-ms/Medical-Chatbot-using-Llama2/assets/96257624/e674e989-b8e4-4767-b0fd-f838dc427349)
+
+- 
+
