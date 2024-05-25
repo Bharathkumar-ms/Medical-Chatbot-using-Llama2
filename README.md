@@ -13,6 +13,3 @@
 
 - # Web App
 ![chatbot1](https://github.com/Bharathkumar-ms/Medical-Chatbot-using-Llama2/assets/96257624/e674e989-b8e4-4767-b0fd-f838dc427349)
-
-- 
-
